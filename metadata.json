@@ -1,0 +1,6 @@
+{
+  "name": "SGA CUN - Sistema de Gestión Académica",
+  "description": "Arquitectura y plataforma interactiva del Sistema de Gestión Académica (SGA) para la Corporación Unificada Nacional de Educación Superior (CUN). Monolito modular desacoplado, control de concurrencia ACID y matriz de trazabilidad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

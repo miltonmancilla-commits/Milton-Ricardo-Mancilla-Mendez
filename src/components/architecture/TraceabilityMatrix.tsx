@@ -1,0 +1,1 @@
+export { TraceabilityMatrix } from '../TraceabilityMatrix';
